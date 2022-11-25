@@ -233,14 +233,15 @@ display: flex;
 
 .uppera {
     width: 100%;
-}
-
-
-
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
+}
+
+
+
+    
 
 .container{
     width: 100vw;
